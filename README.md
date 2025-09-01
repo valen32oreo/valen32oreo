@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats
 ![Valen's GitHub stats](https://github-readme-stats.vercel.app/api?username=valen32oreo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valen32oreo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valen32oreo&layout=compact&theme=dracula)
 
 ---
 
