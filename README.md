@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Valen  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Faris!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Valen!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about crafting mobile apps and building modern web experiences.  
 🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
