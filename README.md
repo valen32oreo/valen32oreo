@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Valen!;Software+Developer;Game+Developer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about crafting mobile apps and building modern web experiences.  
-🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
+🌱 Currently exploring **Flutter, Next.js, C# and UI/UX design principles**.  
 🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
 
 ---
