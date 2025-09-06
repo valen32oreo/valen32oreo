@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Valm
+# Hey there! 👋 I'm Valen
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Valen!;Software+Developer;Game+Developer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
