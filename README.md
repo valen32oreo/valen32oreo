@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Valen's GitHub stats](https://github-readme-stats.vercel.app/api?username=valen32oreo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=7200
 )  
 
@@ -27,6 +27,6 @@
 
 ---
 
-## 🌍 Find me around the web
+## Find me around the web
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valenkrsss_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://valen32oreo.github.io/Portfolio-Page/)
