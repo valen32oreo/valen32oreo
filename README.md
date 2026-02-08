@@ -7,6 +7,9 @@
 🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
 
 ---
+## Founder of Ryzcle
+[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://valen32oreo.github.io/Ryzcle-Corp/)
+---
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,4 +33,3 @@
 ## Find me around the web
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valenkrsss_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://valen32oreo.github.io/Portfolio-Page/)
-[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://valen32oreo.github.io/Ryzcle-Corp/)
