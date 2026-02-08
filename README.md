@@ -7,8 +7,10 @@
 🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
 
 ---
+
 ## Founder of Ryzcle
 [![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://valen32oreo.github.io/Ryzcle-Corp/)
+
 ---
 
 ## Tech Stack
