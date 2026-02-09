@@ -9,7 +9,7 @@
 ---
 
 ## Founder of Ryzcle
-[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://valen32oreo.github.io/Ryzcle-Corp/)
+[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge)](https://valen32oreo.github.io/Ryzcle-Corp/)
 
 ---
 
