@@ -10,6 +10,8 @@
 
 ## Founder of Ryzcle Labs and Ryzcle Technology
 [![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge)](https://valen32oreo.github.io/Ryzcle-Corp/)
+[![Instagram](https://img.shields.io/badge/Ryzcle Labs-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryzcle.labs/)
+[![Instagram](https://img.shields.io/badge/Ryzcle Technology-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryzcle.technology/)
 
 ---
 
