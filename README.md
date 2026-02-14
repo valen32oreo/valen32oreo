@@ -8,7 +8,7 @@
 
 ---
 
-## Founder of Ryzcle
+## Founder of Ryzcle Labs and Ryzcle Technology
 [![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge)](https://valen32oreo.github.io/Ryzcle-Corp/)
 
 ---
