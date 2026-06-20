@@ -9,7 +9,7 @@
 ---
 
 ## Founder & CEO @ Ryzcle™ Corp.
-[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge)](https://ryzcle.my.id/)
+[![Ryzcle Corp](https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge)](https://ryzcle.com/)
 
 ---
 
