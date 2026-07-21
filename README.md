@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Ryzcle Corp. Banner" width="100%" />
+# <img src="./assets/Cover_Corp.svg" alt="Ryzcle Corp. Banner" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=000000&width=450&lines=Hi%2C+I'm+Krisna+Valencia+Hidayat;Founder+%26+CEO+at+Ryzcle+Corp;Google+Student+Ambassador;Full-Stack+Software+Engineer" alt="Typing SVG" />
