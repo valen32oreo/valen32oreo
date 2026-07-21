@@ -55,7 +55,7 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://ryzcle.com/"><img src="https://img.shields.io/badge/Ryzcle_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ryzcle" /></a>
+  <a href="https://ryzcle.com/"><img src="https://img.shields.io/badge/Ryzcle_Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Ryzcle" /></a>
   <a href="https://valen32oreo.github.io/Portfolio-Page/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.instagram.com/valenkrsss_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
