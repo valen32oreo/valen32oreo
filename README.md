@@ -1,7 +1,7 @@
 # <img src="./assets/Cover_Corp.svg" alt="Ryzcle Corp. Banner" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=000000&width=450&lines=Hi%2C+I'm+Krisna+Valencia+Hidayat;Founder+%26+CEO+@+Ryzcle+Corp;Google+Student+Ambassador;Full-Stack+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=000000&width=450&lines=Hi%2C+I'm+Krisna+Valencia+Hidayat;Founder+%26+CEO+@+Ryzcle+Corp.;Google+Student+Ambassador+2026;Full-Stack+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Software Engineer | High-Performance Web Systems & Clean Architecture</h3>
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🏢 **Founder & CEO** at **[Ryzcle™ Corp.](https://ryzcle.com/)** 
+- 🏢 **Founder & CEO** @ **[Ryzcle™ Corp.](https://ryzcle.com/)** 
 - 🎓 **Computer Science Student** & **Google Student Ambassador (2026)**.
 - 🍎 Passionate about the **Apple Development Ecosystem** (Swift, SwiftUI) & Multi-platform apps.
 - 💻 Experienced in building modern full-stack web experiences and scalable architectures.
