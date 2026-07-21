@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=000000&width=450&lines=Hi%2C+I'm+Krisna+Valencia+Hidayat;Founder+%26+CEO+@+Ryzcle+Corp.;Google+Student+Ambassador+2026;Full-Stack+Software+Engineer" alt="Typing SVG" />
+  <a href="https://ryzcle.com/"><img src="https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ryzcle" /></a>
 </div>
 
 <h3 align="center">Software Engineer | High-Performance Web Systems & Clean Architecture</h3>
