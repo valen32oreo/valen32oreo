@@ -49,10 +49,13 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valen32oreo&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="Valen's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valen32oreo&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" alt="Top Langs" height="165"/>
-</div>
+<p>
+  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valen32oreo&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
 
 ---
 
