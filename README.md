@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://ryzcle.com/">
-    <img src="https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Ryzcle Corp">
+    <img src="https://img.shields.io/badge/Ryzcle_Corp-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Ryzcle Corp.">
   </a>
 </div>
 
@@ -50,19 +50,7 @@
 ### 📊 GitHub Analytics
 
 <p>
-  <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
-</p>
-
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valen32oreo&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valen32oreo/valen32oreo/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valen32oreo/valen32oreo/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/valen32oreo/valen32oreo/output/pacman-contribution-graph-dark.svg" alt="Pacman-style contribution graph" width="100%" />
-  </picture>
 </p>
 
 ---
