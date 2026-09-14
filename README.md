@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 🏢 **Founder & CEO** @ **[Ryzcle® Corp.](https://ryzcle.com/)** 
-- 🎓 **Computer Science Student** & **Google Student Ambassador (2026)**.
+- 🎓 **Computer Science Student** & **Google Student Ambassador '26 Alumnus**.
 - 🍎 Passionate about the **Apple Development Ecosystem** (Swift, SwiftUI) & Multi-platform apps.
 - 💻 Experienced in building modern full-stack web experiences and scalable architectures.
 - 📱 Creator of applications like **Valen Gadget Rent**.
