@@ -21,7 +21,7 @@
 - 🍎 Passionate about the **Apple Development Ecosystem** (Swift, SwiftUI) & Multi-platform apps.
 - 💻 Experienced in building modern full-stack web experiences and scalable architectures.
 - 📱 Creator of applications like **Valen Gadget Rent**.
-- 🎯 **Current Focus:** Delivering professional software engineering services, expanding Ryzcle Corp's ecosystem, and exploring innovative UI/UX principles.
+- 🎯 **Current Focus:** Delivering professional software engineering services, expanding Ryzcle® Corp's ecosystem, and exploring innovative UI/UX principles.
 
 ---
 
