@@ -55,7 +55,19 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://ryzcle.com/"><img src="https://img.shields.io/badge/Ryzcle_Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Ryzcle" /></a>
-  <a href="https://valen.ryzcle.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.instagram.com/valenkrsss_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://ryzcle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ryzcle_Corp.-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Ryzcle Official Website" />
+  </a>
+  <a href="https://valen.ryzcle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230F172A.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/valen32oreo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://www.instagram.com/valenkrsss_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+  <a href="mailto:valen@ryzcle.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
+  </a>
 </div>
