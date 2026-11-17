@@ -16,12 +16,12 @@
 
 ### 🚀 About Me
 
-- 🏢 **Founder & CEO** @ **[Ryzcle® Corp.](https://ryzcle.com/)** 
-- 🎓 **Computer Science Student** & **Google Student Ambassador '26 Alumnus**.
-- 🍎 Passionate about the **Apple Development Ecosystem** (Swift, SwiftUI) & Multi-platform apps.
-- 💻 Experienced in building modern full-stack web experiences and scalable architectures.
-- 📱 Creator of applications like **Valen Gadget Rent**.
-- 🎯 **Current Focus:** Delivering professional software engineering services, expanding Ryzcle® Corp's ecosystem, and exploring innovative UI/UX principles.
+- 🏛️ **Founder & Lead Architect** @ **[Ryzcle® Corp.](https://ryzcle.com/)** — Engineering scalable digital ecosystems and custom web solutions.
+- 🎓 **Computer Science Undergrad** & **Google Student Ambassador '26 Alumnus** (Gemini Rising Star Tier).
+- 🍎 **Apple Ecosystem Advocate:** Specializing in Swift, SwiftUI, and Human Interface Guidelines (HIG) for native apps.
+- 💻 **Full-Stack Developer:** Experienced in architecting robust web applications, API integrations, and self-hosted infrastructure.
+- 🛠️ **Featured Work:** Creator of platforms like **Valen Gadget Rent** and interactive digital solutions.
+- 🎯 **Current Focus:** Scaling Ryzcle® Corp's product suite, delivering high-precision software services, and exploring advanced UI/UX principles.
 
 ---
 
