@@ -61,13 +61,13 @@
   <a href="https://valen.ryzcle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230F172A.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/valen32oreo" target="_blank">
+  <a href="https://www.linkedin.com/in/krisnavalen32/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://www.instagram.com/valenkrsss_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
-  <a href="mailto:valen@ryzcle.com">
+  <a href="mailto:valenciakrisna32@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
   </a>
 </div>
